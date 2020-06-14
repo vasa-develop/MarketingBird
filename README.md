@@ -58,6 +58,17 @@ Required commands are:
 - `nkf`
 - `openssl`
 
+Now go to the [followers.py]() and add the credentials here too.
+
+```
+consumer_key = "consumer_key_here"
+consumer_secret = "consumer_secret_here"
+access_key = "access_key_here"
+access_secret = "access_secret_here"
+```
+
+That's it!
+
 ## Usage
 
 ```

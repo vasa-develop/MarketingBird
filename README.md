@@ -1,5 +1,21 @@
 # MarketingBird, An open-source marketing tool to port/enagage your twitter follower base
 
+## Ongoing Work
+
+The plan here is to build something like Zapier so that the users can create multiple flows and join them to get desired results.
+This model can be scaled over other social media platforms too.
+
+Here is the list of work we/I are/am doing, so that you can checkup our status:  
+
+- Working CLI tool (Works with a single command) **[DONE]**: [DEMO](https://github.com/balajis/twitter-export/issues/1#issuecomment-643811801)
+- Mockup for Zapier like interface for Dasboard UI **[DONE]**: [Youtube Video](https://youtu.be/16cJlX578gs)
+- Creating a easy-to-use flow, so that anybody can start getting more info about their userbase. **[PENDING]**
+  - A MarketingBird flow to scrape all the public data about an accounts followers and exporting it in user-firendly formats (spreadsheets, etc.)**[PENDING]**
+  - A Dashbaord to analyse your scapred data (charts, comparisons, all analytics stuff)**[PENDING]**
+  - A MarketingBird flow to use a spreadsheet (or a stream of data from another MarketingBird flow) to send DMs. We should be able to filter out the accounts with specific conditions (followers > 1000, or interested in #Bitcoin)**[PENDING]**
+  - More stuff to be planned...
+
+
 ## Setup
 
 You need to prepare API keys at first.

@@ -8,6 +8,7 @@ This model can be scaled over other social media platforms too.
 Here is the list of work we/I are/am doing, so that you can checkup our status:  
 
 - Working CLI tool (Works with a single command) **[DONE]**: [DEMO](https://github.com/balajis/twitter-export/issues/1#issuecomment-643811801)
+- There is an alternative codebase (much cleaner) on [blubird branch](https://github.com/vasa-develop/MarketingBird/tree/bluebird) **[DONE]**
 - Mockup for Zapier like interface for Dasboard UI **[DONE]**: [Youtube Video](https://youtu.be/16cJlX578gs)
 - Creating a easy-to-use flow, so that anybody can start getting more info about their userbase. **[PENDING]**
   - A MarketingBird flow to scrape all the public data about an accounts followers and exporting it in user-firendly formats (spreadsheets, etc.)**[PENDING]**

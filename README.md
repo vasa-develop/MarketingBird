@@ -1,4 +1,4 @@
-# tweet.sh, a Twitter client written in simple Bash script
+# MarketingBird, An open-source marketing tool to port/enagage your twitter follower base
 
 ## Setup
 
